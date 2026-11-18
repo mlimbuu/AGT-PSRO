@@ -1,0 +1,11 @@
+# All experimental data are generated under results/ (analysis scripts are tracked).
+results/data/
+results/figures/
+results/wandb/
+results/cache/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+.env
+.env.*

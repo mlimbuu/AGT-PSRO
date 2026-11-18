@@ -1,0 +1,15 @@
+results/data/**
+results/figures/**
+results/cache/**
+results/wandb/**
+legacy/**
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+*.pyc
+*.zip
+.git/
+.env
+
+.env.*
